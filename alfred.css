@@ -1,0 +1,68 @@
+h1{
+    color:rgb(0, 0, 0);
+    font-size: 55px;
+    font-family:cursive;
+}
+*{
+    text-align: center;
+}
+.gordon{
+    border-color: rgb(0, 0, 0);
+    border-width: 10px;
+    border-style:solid;
+    float: left;
+}
+.rachael{
+    background-color: rgba(57, 4, 107, 0.781);
+    text-align: center;
+    font-size: 25px;
+    line-height: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    color:rgb(255, 255, 255);
+    overflow: auto;
+}
+#robin{
+    background-color:navy;
+}
+.nightwing{
+    float:right;
+}
+h2{
+  background-color: rgb(0, 0, 0);
+  color: bisque;
+}
+#bane{
+    background-color: darkred;
+}
+#Catwoman{
+    background-color: black;
+}
+#Harley-quinn{
+    background-color: blue;
+}
+.margotrobbie{
+    float: right;
+    font-size: 25px;
+    line-height: 40px;
+    font-family: fantasy;
+    overflow: auto;
+}
+h3{
+ font-family: monospace;
+ font-size: 29px;
+ float: left;
+ margin-top: -40px;
+}
+.superman{
+float: left;
+margin-left: -150px;
+}
+.scarecrow{
+ float: left;
+ font-size: 20px;
+ margin-top: -40px;
+ margin-left: 40px;
+}
+#Wonder-Woman{
+    background-color: goldenrod;
+}
